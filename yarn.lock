@@ -2403,10 +2403,10 @@ at-least-node@^1.0.0:
   resolved "https://registry.yarnpkg.com/at-least-node/-/at-least-node-1.0.0.tgz#602cd4b46e844ad4effc92a8011a3c46e0238dc2"
   integrity sha512-+q/t7Ekv1EDY2l6Gda6LLiX14rU9TV20Wa3ofeQmwPFZbOMo9DXrLbOjFaaclkXKWidIaopwAObQDqwWtGUjqg==
 
-autolinker@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/autolinker/-/autolinker-4.0.0.tgz#aa1f9a52786b727b0ecee8cd7d4a97e0e3ef59f1"
-  integrity sha512-fl5Kh6BmEEZx+IWBfEirnRUU5+cOiV0OK7PEt0RBKvJMJ8GaRseIOeDU3FKf4j3CE5HVefcjHmhYPOcaVt0bZw==
+autolinker@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/autolinker/-/autolinker-4.0.1.tgz#5f89997c10fc5e65ab6bf85d22f796735be3ddc5"
+  integrity sha512-S2BgcgRyoCQisoXzvDentN2lgqWr/hs8oD+YdDrIBdV4VqLtQG8hVYTY13JD2g9LgmUbBpMJzAP/GH6HSkVnvw==
   dependencies:
     tslib "^2.3.0"
 
